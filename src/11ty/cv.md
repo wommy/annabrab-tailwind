@@ -1,86 +1,72 @@
 ---
 layout: _base
 ---
-<div>
-<h3>-EDUCATION-</h3>
-<div>
+### -EDUCATION-
+
 2013-DEC
 BFA Fine Arts-Emphasis in Painting,
 Western Michigan University,
 Kalamazoo, MI
-</div>
-<div>
+
 2009-JUN
 Lake Shore High School,
 St. Clair Shores, MI
-</div>
-<h3>-EXHIBITIONS-</h3>
-<div>
-	2019-JUN
+
+### -EXHIBITIONS-
+
+2019-JUN
 Anna Brabant: Paintings and Prints,
 Ferndale Public Library,
 Ferndale, MI
-<div>
-	2016-JAN
+
+2016-JAN
 New Works: Anna Brabant,
 Detroit, MI
-</div>
-<div>
-	2015-SEPT
+
+2015-SEPT
 Grimm Group Show,
 Junction Hall,
 Detroit, MI
-</div>
-<div>
-	2015-JUL
+
+2015-JUL
 RiOT, Seraphine Collective Group Show,
 UFO Factory,
 Detroit, MI
-</div>
-<div>
-	2014-MAR
+
+2014-MAR
 Paintings by Anna Brabant,
 Plata y Oro,
 Kalamazoo, MI
-</div>
-<div>
-	2014-JAN
+
+2014-JAN
 Print—Works: Group Show,
 DeVries Gallery,
 Kalamazoo, MI
-</div>
-<div>
-	2013-NOV
+
+2013-NOV
 Being, Solo Exhibition,
 DeVries Gallery,
 Kalamazoo, MI
-</div>
-<div>
-	2013-APR
+
+2013-APR
 Paintings by Anna Brabant:
 Saniwax Gallery,
 Kalamazoo, MI
-</div>
-<div>
-	2012-OCT
+
+2012-OCT
 ArtPrize: Exhibition,
 Gwen Frostic School of Art
 Grand Rapids, MI
-</div>
-<div>
+
 2010-SEPT
 Foundation Show,
 Gwen Frostic School of Art
 Kalamazoo, MI
-</div>
-</div>
-	<h3>-EMPLOYMENT-</h3>
-	<div>
-	2015-PRESENT
-	Third Man Records-Detroit
-	</div>
-	<div>
-	2013-2015
-	Total Loss Services Corporation
-	</div>
-</div>
+
+### -EMPLOYMENT-
+
+2015-PRESENT
+Third Man Records-Detroit
+
+2013-2015
+Total Loss Services Corporation
