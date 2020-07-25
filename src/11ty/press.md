@@ -23,4 +23,4 @@ Brabant approaches a canvas almost like a lucid dreamer, mixing the element of c
 As you can see with certain pieces, Brabant draws inspiration from science and microscopy, data graphs, topography and old maps, computer glitches, and natural decay. She uses varied applications to mix a palette of muted, chromatic hues, soft blues, and pinks with stark beige. Brabant intentionally circumvents any overly-conscious awareness of what comes next for each piece, amid creation. She also thrives when she gets her hands on uncommon materials and tools, experimenting with printing, rolling, burning, and collaging.
 
 Contact: Jeff Milo, Ferndale Library Marketing  
-jeffmilo@ferndalepubliclibrary.org
+[jeffmilo@ferndalepubliclibrary.org](mailto:jeffmilo@ferndalepubliclibrary.org)
