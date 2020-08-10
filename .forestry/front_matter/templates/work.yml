@@ -21,6 +21,7 @@ fields:
   label: description
   description: description of the image
 pages:
+- src/11ty/_content/_work/data.md
 - src/11ty/_content/_work/error_i.md
 - src/11ty/_content/_work/error_ii.md
 - src/11ty/_content/_work/flu.md
