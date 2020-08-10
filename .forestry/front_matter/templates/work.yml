@@ -20,3 +20,5 @@ fields:
     required: false
   label: description
   description: description of the image
+pages:
+- src/11ty/_content/_work/trash.md
