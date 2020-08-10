@@ -21,6 +21,7 @@ fields:
   label: description
   description: description of the image
 pages:
+- src/11ty/_content/_work/markings.md
 - src/11ty/_content/_work/rivers.md
 - src/11ty/_content/_work/swarm.md
 - src/11ty/_content/_work/trash.md
