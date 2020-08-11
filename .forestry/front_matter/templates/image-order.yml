@@ -1,0 +1,46 @@
+---
+label: image order
+hide_body: true
+fields:
+- type: file
+  name: defect
+  label: defect
+- type: file
+  name: celery
+  label: celery
+- type: file
+  name: trash
+  label: trash
+- type: file
+  name: barely_sipped
+  label: barely_sipped
+- type: file
+  name: untitled_monoprint
+  label: untitled_monoprint
+- type: file
+  name: idk
+  label: idk
+- type: file
+  name: data
+  label: data
+- type: file
+  name: flu
+  label: flu
+- type: file
+  name: rivers
+  label: rivers
+- type: file
+  name: error_ii
+  label: error_ii
+- type: file
+  name: error_i
+  label: error_i
+- type: file
+  name: markings
+  label: markings
+- type: file
+  name: swarm
+  label: swarm
+- type: file
+  name: untitled
+  label: untitled
