@@ -9,10 +9,6 @@ sections:
   label: work
   create: documents
   match: "*.md"
-- type: document
-  path: src/11ty/_data/work.json
-  label: order
-  match: "**/*"
 upload_dir: annabrab
 public_path: https://res.cloudinary.com/wommy/image/upload
 front_matter_path: ''
