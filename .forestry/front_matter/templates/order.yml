@@ -1,8 +1,0 @@
----
-label: order
-hide_body: true
-fields:
-- name: order
-  type: image_gallery
-  config: {}
-  label: order
