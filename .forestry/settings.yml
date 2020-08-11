@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: _data/work.json
+  label: image order
+  match: "**/*"
 - type: directory
   path: src/11ty/_content/_work
   label: work
