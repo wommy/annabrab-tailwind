@@ -4,15 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/work.json
-  label: image order
-  match: "**/*"
 - type: directory
   path: src/11ty/_content/_work
   label: work
   create: documents
   match: "*.md"
+- type: document
+  path: _data/work.json
+  label: image order
 upload_dir: annabrab
 public_path: https://res.cloudinary.com/wommy/image/upload
 front_matter_path: ''
