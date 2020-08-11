@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "*.md"
 - type: document
-  path: _data/work.json
+  path: src/11ty/_data/work.json
   label: image order
 upload_dir: annabrab
 public_path: https://res.cloudinary.com/wommy/image/upload
